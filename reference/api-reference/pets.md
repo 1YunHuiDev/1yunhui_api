@@ -27,7 +27,7 @@ The species of the pet
 The breed of the pet
 {% endswagger-parameter %}
 
-{% swagger-response status="200" description="Pet successfully created" %}
+{% swagger-response status="0000" description="Pet successfully created" %}
 ```javascript
 {
     "name"="Wilson",
